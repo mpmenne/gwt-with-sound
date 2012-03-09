@@ -1,0 +1,2 @@
+serviceClass: com.github.momenne.gwt.client.GreetingService
+path: 06A9A1BD04682DA7B47A89930D7E8940.gwt.rpc

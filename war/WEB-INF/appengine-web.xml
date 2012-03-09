@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
+    <application>boomappstamatic</application>
+    <version>1</version>
+
+    <static-files>
+        <include path="/**.swf" />
+	<include path="/**.js" />
+	<include path="/**.css" />
+	<include path="/**.gif" />
+	<include path="/**.png" />
+	<include path="/**.mp3" />
+    </static-files>
+
+</appengine-web-app>
